@@ -98,20 +98,21 @@ with a strong interest in **software development, data science, machine learning
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHP1405&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=YASHP1405&theme=radical" />
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark" />
 </p>
+
 
 ---
 
