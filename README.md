@@ -76,7 +76,7 @@ CONTRIBUTION
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/YASHP1405  
-- LinkedIn: linkedin.com/in/yash-pawar-aa5231317/  
+- LinkedIn: https://linkedin.com/in/yash-pawar-aa5231317/  
 - Email: yupawar689@gmail.com  
 
 ---
