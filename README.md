@@ -68,9 +68,6 @@ CONTRIBUTION
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=YASHP1405&theme=default" />
-</p>
 
 > Stats intentionally kept minimal for reliability.
 
@@ -79,8 +76,8 @@ CONTRIBUTION
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/YASHP1405  
-- LinkedIn: https://linkedin.com/in/your-linkedin  
-- Email: yourmail@gmail.com  
+- LinkedIn: linkedin.com/in/yash-pawar-aa5231317/  
+- Email: yupawar689@gmail.com  
 
 ---
 
