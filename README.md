@@ -97,29 +97,23 @@ C | C++ | Python | Data Science | ML | AWS Cloud Enthusiast
 
 ---
 
+
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/YASHP1405/DMIS">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=DMIS&theme=radical" />
-  </a>
-
-  <a href="https://github.com/YASHP1405/Bangalore-House-Price-Prediction">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=Bangalore-House-Price-Prediction&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=DMIS&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YASHP1405/Sentiment-Analysis">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=Sentiment-Analysis&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=Sentiment-Analysis&theme=radical" />
 </p>
 
 
-## 📊 GitHub Statistics (HARDENED)
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -131,9 +125,8 @@ C | C++ | Python | Data Science | ML | AWS Cloud Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YASHP1405&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YASHP1405&theme=darkhub&margin-w=15&row=1&column=6" />
 </p>
-
 
 ## 📈 Contribution Graph
 
