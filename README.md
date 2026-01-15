@@ -54,6 +54,20 @@ C • C++ • Python • Data Science • Machine Learning • AWS Cloud
 
 ## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+STREAK 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YASHP1405&theme=radical" />
+</p>
+
+CONTRIBUTION 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark" />
+</p>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=YASHP1405&theme=default" />
 </p>
