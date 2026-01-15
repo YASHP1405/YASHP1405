@@ -100,11 +100,11 @@ with a strong interest in **software development, data science, machine learning
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHP1405&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YASHP1405&theme=radical" />
 </p>
 
 ---
@@ -115,6 +115,7 @@ with a strong interest in **software development, data science, machine learning
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark" />
 </p>
 
+
 ---
 
 ## 🤝 Connect With Me
@@ -123,10 +124,10 @@ with a strong interest in **software development, data science, machine learning
   <a href="https://github.com/YASHP1405">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:yupawar689@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yash-pawar-aa5231317/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
