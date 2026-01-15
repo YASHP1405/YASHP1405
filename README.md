@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Pawar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;C+%7C+C%2B%2B+Programmer;Python+%7C+Data+Science+%7C+ML;AWS+Cloud+Enthusiast;Building+Real-World+Projects" />
+</p>
+
 <h3 align="center">
 Student @ G H Raisoni College of Engineering & Management, Nagpur<br>
 C | C++ | Python | Data Science | ML | AWS Cloud Enthusiast
@@ -12,33 +16,30 @@ C | C++ | Python | Data Science | ML | AWS Cloud Enthusiast
 
 ## 🚀 About Me
 
-🎓 I am a **Computer Engineering student** at **G H Raisoni College of Engineering and Management, Nagpur**,  
-with a strong interest in **software development, data science, machine learning, and cloud computing**.
-
-💻 I enjoy building **real-world applications** using programming fundamentals and modern technologies.  
-☁️ Currently exploring **AWS cloud architecture** and applying it to practical use cases.  
-📊 Passionate about **data-driven solutions** and intelligent systems.
+🎓 Computer Engineering student at **G H Raisoni College of Engineering & Management, Nagpur**  
+💻 Strong foundation in **C, C++**, and problem-solving  
+📊 Passionate about **Data Science, Machine Learning & Python-based systems**  
+☁️ Understanding and applying **AWS Cloud Architecture** for real-world use cases  
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🔹 Programming Languages
-- **C, C++** (Strong fundamentals, problem solving, system-level thinking)
-- **Python** (Data Science & Machine Learning)
+### 🔹 Programming
+- **C, C++** – Core programming, memory concepts, structured logic
+- **Python** – Data Science & ML
 - **SQL (PostgreSQL)**
 
-### 🔹 Data Science & Machine Learning
+### 🔹 Data Science & ML
 - Data preprocessing & analysis  
 - Feature engineering  
-- Supervised ML models  
+- ML model-based prediction  
 - Sentiment Analysis  
-- Model-based predictions  
 
 ### 🔹 Cloud & Tools
-- AWS Cloud (EC2, S3, basic cloud architecture understanding)
-- Git & GitHub  
-- Linux basics  
+- AWS (EC2, S3 – architecture & usage)
+- Git & GitHub
+- Linux basics
 
 ---
 
@@ -52,67 +53,93 @@ with a strong interest in **software development, data science, machine learning
 
 ## 📂 Featured Projects
 
-### 🔹 **DMIS – Department Monitoring & Information System**
+### 🔹 DMIS – Department Monitoring & Information System
 **Tech:** Python  
-- Designed to manage and monitor departmental information efficiently  
-- Focused on structured data handling and automation  
-- Improved transparency and data accessibility  
+- Designed a system to monitor and manage departmental information  
+- Improved data accessibility and operational efficiency  
+- Focused on structured data handling  
 
 ---
 
-### 🔹 **Bangalore House Price Prediction**
+### 🔹 Bangalore House Price Prediction
 **Tech:** Python, Data Science, Machine Learning  
-- Built a predictive ML model for real estate price estimation  
-- Performed data cleaning, feature selection & model training  
-- Used regression techniques to improve prediction accuracy  
+- Built an ML model to predict real estate prices  
+- Performed data cleaning, feature selection & regression modeling  
+- Improved prediction accuracy through tuning  
 
 ---
 
-### 🔹 **Sentiment Analysis Prediction System**
+### 🔹 Sentiment Analysis Prediction System
 **Tech:** Machine Learning  
-- Developed an ML-based sentiment analysis model  
-- Classified textual data into positive, negative, or neutral sentiments  
-- Useful for opinion mining and feedback analysis  
+- Developed a sentiment classification model  
+- Analyzed textual data to predict positive, negative, or neutral sentiment  
+- Useful for feedback and opinion mining  
 
 ---
 
-### 🔹 **C / C++ Programming Projects**
+### 🔹 C / C++ Programming Projects
 **Tech:** C, C++  
-- Implemented multiple programs using:
+- Programs using:
   - Functions
   - Structures & Unions
   - Pointers
   - Arrays & Strings
-- Focused on **clean logic, memory management, and efficiency**
-- Strengthened core programming and DSA fundamentals  
+- Emphasis on clean logic, efficiency, and memory understanding  
 
 ---
 
 ## 🏆 Academic & Professional Highlights
 
-- 🎓 Engineering Student at **G H Raisoni College of Engineering & Management**
-- 💡 Strong foundation in **core programming concepts**
-- 🚀 Continuous learner in **ML, Data Science & Cloud Computing**
-- 🤝 Enthusiastic team player with problem-solving mindset  
+- 🎓 Engineering student at **GH Raisoni College**
+- 💡 Strong fundamentals in core programming
+- 🚀 Continuous learner in ML, Data Science & Cloud
+- 🤝 Enthusiastic and professional team player
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 Pinned Projects
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical" />
+  <a href="https://github.com/YASHP1405/DMIS">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=DMIS&theme=radical" />
+  </a>
+
+  <a href="https://github.com/YASHP1405/Bangalore-House-Price-Prediction">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=Bangalore-House-Price-Prediction&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YASHP1405/Sentiment-Analysis">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=YASHP1405&repo=Sentiment-Analysis&theme=radical" />
+  </a>
 </p>
 
 
+## 📊 GitHub Statistics (HARDENED)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YASHP1405&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YASHP1405&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YASHP1405&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YASHP1405&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHP1405&theme=github-dark&hide_border=true" />
 </p>
-
 
 ---
 
@@ -122,10 +149,10 @@ with a strong interest in **software development, data science, machine learning
   <a href="https://github.com/YASHP1405">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:yupawar689@gmail.com">
+  <a href="mailto:yourmail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yash-pawar-aa5231317/">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
